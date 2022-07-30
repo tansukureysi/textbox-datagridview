@@ -1,0 +1,11 @@
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\bin\Debug\textbox'tan_datagridview'a_veri_aktama.exe.config
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\bin\Debug\textbox'tan_datagridview'a_veri_aktama.exe
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\bin\Debug\textbox'tan_datagridview'a_veri_aktama.pdb
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.csproj.SuggestedBindingRedirects.cache
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox_tan_datagridview_a_veri_aktama.Form1.resources
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox_tan_datagridview_a_veri_aktama.Properties.Resources.resources
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.exe
+C:\Users\niyaz\source\repos\textbox'tan_datagridview'a_veri_aktama\textbox'tan_datagridview'a_veri_aktama\obj\Debug\textbox'tan_datagridview'a_veri_aktama.pdb
